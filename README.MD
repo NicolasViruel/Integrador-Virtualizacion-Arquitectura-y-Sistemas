@@ -1,13 +1,13 @@
 # 💻 Arquitectura y Sistemas Operacional 
-**Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+**Tecnicatura Universitaria en Programacion**  
+📍 *Universidad Tecnologica Nacional*  
 
 ## ✨ Estudiantes  
 - **Nombre:** Nicolas Viruel 
-- **Nombre:** Santiago 
+- **Nombre:** Santiago Pace
 - **Comisión:** M2025-18 
 
-## 📂 Descripción del Repositorio  
+## 📂 Descripcion del Repositorio  
 Este repositorio fue creado para el Integrador de Arquitectura y Sistemas Operacional con el tema 
 **Virtualizacion** 
 
